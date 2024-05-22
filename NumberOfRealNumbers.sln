@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfRealNumbers", "NumberOfRealNumbers\NumberOfRealNumbers.csproj", "{3D4030C4-1B42-47BB-8664-1D358FB558C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImprovedPhoneBook", "ImprovedPhoneBook\ImprovedPhoneBook.csproj", "{EE27592E-71AC-4AE8-BAA0-46E0CC31BA6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4030C4-1B42-47BB-8664-1D358FB558C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4030C4-1B42-47BB-8664-1D358FB558C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4030C4-1B42-47BB-8664-1D358FB558C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4030C4-1B42-47BB-8664-1D358FB558C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE27592E-71AC-4AE8-BAA0-46E0CC31BA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE27592E-71AC-4AE8-BAA0-46E0CC31BA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE27592E-71AC-4AE8-BAA0-46E0CC31BA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE27592E-71AC-4AE8-BAA0-46E0CC31BA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DD83238-032C-43ED-B704-33DBB40DF4D8}
+	EndGlobalSection
+EndGlobal
